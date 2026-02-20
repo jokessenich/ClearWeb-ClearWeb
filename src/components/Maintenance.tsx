@@ -5,7 +5,7 @@ import { useReveal } from "./useReveal";
 const plans = [
   {
     name: "Basic Care",
-    price: "$99 / month",
+    price: "$199 / month",
     features: [
       "Monthly security updates",
       "Uptime monitoring",
@@ -16,7 +16,7 @@ const plans = [
   },
   {
     name: "Standard",
-    price: "$199 / month",
+    price: "399-599 / month",
     features: [
       "Everything in Basic Care",
       "Weekly backups",
@@ -27,7 +27,7 @@ const plans = [
   },
   {
     name: "Full Service",
-    price: "$349 / month",
+    price: "$999 / month",
     features: [
       "Everything in Standard",
       "Unlimited content updates",
